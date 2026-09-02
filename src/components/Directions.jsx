@@ -4,7 +4,7 @@ import './Directions.css';
 const DIRECTIONS = [
     {
         id: 'holidays',
-        icon: '/src/assets/balloons-balloon-svgrepo-com.svg',
+        icon: '/test123/src/assets/balloons-balloon-svgrepo-com.svg',
         title: 'Feiertage',
         shortText: 'Organisation und Begleitung von Feiertagen und Feierlichkeiten.',
         fullText:
@@ -12,7 +12,7 @@ const DIRECTIONS = [
     },
     {
         id: 'clubs',
-        icon: '/src/assets/gui-palette-svgrepo-com.svg',
+        icon: '/test123/src/assets/gui-palette-svgrepo-com.svg',
         title: 'Kreise',
         shortText: 'Kreative und thematische Kreise für unterschiedliche Interessen.',
         fullText:
@@ -20,7 +20,7 @@ const DIRECTIONS = [
     },
     {
         id: 'german',
-        icon: '/src/assets/graduation-cap-svgrepo-com.svg',
+        icon: '/test123/src/assets/graduation-cap-svgrepo-com.svg',
         title: 'Deutschunterricht',
         shortText: 'Deutschkurse für Erwachsene auf unterschiedlichen Niveaus.',
         fullText:
@@ -28,7 +28,7 @@ const DIRECTIONS = [
     },
     {
         id: 'youth',
-        icon: '/src/assets/raising-hands-light-skin-tone-svgrepo-com.svg',
+        icon: '/test123/src/assets/raising-hands-light-skin-tone-svgrepo-com.svg',
         title: 'Jugend',
         shortText: 'Aktivitäten und Projekte speziell für Jugendliche.',
         fullText:
@@ -36,7 +36,7 @@ const DIRECTIONS = [
     },
     {
         id: 'adults',
-        icon: '/src/assets/people-nearby-svgrepo-com.svg',
+        icon: '/test123/src/assets/people-nearby-svgrepo-com.svg',
         title: 'Erwachsene',
         shortText: 'Unterstützung und Programme für Erwachsene.',
         fullText:
@@ -44,7 +44,7 @@ const DIRECTIONS = [
     },
     {
         id: 'music',
-        icon: '/src/assets/music-svgrepo-com.svg',
+        icon: '/test123/src/assets/music-svgrepo-com.svg',
         title: 'Musikgruppe',
         shortText: 'Gemeinsames Musizieren in einer aktiven Musikgruppe.',
         fullText:
