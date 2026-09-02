@@ -1,0 +1,66 @@
+.about {
+    width: 100%;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+.about__inner {
+    width: 100%;
+    padding: 400px 40px 100px;
+    box-sizing: border-box;
+}
+
+.about__eyebrow {
+    margin-bottom: 48px;
+}
+
+.about__scroll-target {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    scroll-margin-top: 50px;
+}
+
+.about__eyebrow-number {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+.about__eyebrow-line {
+    display: inline-block;
+    width: 20px;
+    height: 1px;
+    background: #6a6a6a;
+}
+
+.about__eyebrow-label {
+    display: inline-block;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #6a6a6a;
+}
+
+.about__title {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #1a1a1a;
+    margin: 0 0 48px;
+    max-width: 800px;
+}
+
+.about__content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 800px;
+}
+
+.about__text {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    margin: 0;
+}
